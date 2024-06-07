@@ -375,6 +375,7 @@ background-color:rgb(0, 33, 219) ;
  .social img:hover{
   border-radius: 100%;
   box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
  }
 
  .last-line{
